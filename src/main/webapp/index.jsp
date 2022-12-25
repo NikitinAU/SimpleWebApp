@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Test Job with Jenkins and Tomcat with SSH!</h2>
+<h2>Hello Ilya!</h2>
 </body>
 </html>
